@@ -361,8 +361,3 @@ custom-stack/
 
 ---
 
-## License
-
-You are not required to add a license. If you want others to freely reuse your code, add a permissive license such as MIT.
-
-If you do not add a license, your code is effectively "all rights reserved" by default (others cannot legally reuse it without permission).
