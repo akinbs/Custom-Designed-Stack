@@ -341,17 +341,7 @@ print(s.elements)     # []
 
 ---
 
-## Suggested Project Structure
 
-```
-custom-stack/
-  custom_stack.py
-  demo.py
-  README.md
-  .gitignore
-```
-
----
 
 ## Notes and Considerations
 
